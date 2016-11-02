@@ -2,8 +2,8 @@
 Repository Created for Arefacts from the Student Wellbeing Specification Development Workshop 20th October, 2016.
 
 
-Aim: To
-achieve a shared understanding of Student wellbeing information and an idea of
+##Aim:
+To achieve a shared understanding of Student wellbeing information and an idea of
 use cases for transmission of this information.
 
  
