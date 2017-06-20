@@ -96,7 +96,7 @@ necessarily as a by-product of a change in StudentPersonal.
 
 ##Diagram
 
-![Entity2](https://github.com/nsip/StudentWellBeing/blob/master/entity2.png)
+![Wellbeingentity](https://github.com/nsip/StudentWellBeing/blob/master/Wellbeingentity.png)
 
 
 
