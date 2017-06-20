@@ -2,7 +2,8 @@
 Repository Created for Arefacts from the Student Wellbeing Specification Development Workshop 20th October, 2016.
 
 
-Aim: To achieve a shared understanding of Student wellbeing information and an idea of use cases for transmission of this information.
+##Aim:
+To achieve a shared understanding of Student wellbeing information and an idea of use cases for transmission of this information.
 
 Note: SIF Objects are primarily for the transmission of information between systems used by different parties, and not to define the backend systems or entities.
 From discussions entities involved could be:
