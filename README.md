@@ -1,4 +1,9 @@
 # StudentWellbeing
+
+***DEPRECATED (RETIRED)***
+
+*This repository is obsolete and retired (archived). This is an unmantained repository.*
+
 Repository Created for Arefacts from the Student Wellbeing Specification Development Workshop 20th October, 2016.
 
 
